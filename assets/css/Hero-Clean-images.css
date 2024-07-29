@@ -1,0 +1,12 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+a {
+  text-decoration: none;
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+

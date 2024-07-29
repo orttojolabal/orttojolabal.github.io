@@ -1,0 +1,121 @@
+.texto1{
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    color: #46719E;
+    font-size: 2.5rem;
+}
+
+.btncss{
+    background-color: #5880B3;
+    color: #F3F3F3;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    border: none;
+}
+
+.txt2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #3C3C3C;
+    font-size: 2.0rem;
+}
+
+.txt3{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #3C3C3C;
+    font-size: 1.5rem; 
+}
+
+.parr1{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #46719E;
+    font-size: 1.8rem;
+}
+
+.parr2{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #444444;
+    font-size: 1.2rem;
+}
+
+.parr3{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #444444;
+    font-size: 1.6rem;
+}
+
+.subt1{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #3C3C3C;
+    font-size: 2.0rem;
+}
+
+
+.txtcard{
+    text-align: center;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #444444;
+    font-size: 1.2rem;
+}
+
+.card{
+    background-color: #F1F1F1;
+    border: none;
+    filter: drop-shadow(0px 6px 4px #00000020);
+    height: 350px;
+}
+
+li{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #444444;
+    font-size: 1.0rem;
+}
+
+.clr{
+    color: #46719E;
+    font-weight: 600;
+}
+
+.ft{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.accordion-button{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #46719E;
+    font-size: 1.2rem;
+}
+
+.pcss{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #444444;
+    font-size: 1.2rem;
+}
